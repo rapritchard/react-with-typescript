@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React with TypeScript
+
+This is a really super duper simple React application that shows how to use TypeScript with it via the CRA tool.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
